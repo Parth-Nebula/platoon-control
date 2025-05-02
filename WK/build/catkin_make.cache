@@ -1,0 +1,2 @@
+platoon_controller:turtlebot3_simulations/turtlebot3_fake:turtlebot3_simulations/turtlebot3_gazebo:turtlebot3_simulations/turtlebot3_simulations
+-DCATKIN_DEVEL_PREFIX=/home/rex/F/WK/devel -DCMAKE_INSTALL_PREFIX=/home/rex/F/WK/install -G Unix Makefiles
